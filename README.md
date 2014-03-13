@@ -22,3 +22,7 @@ http://gittup.org/tup/build_system_rules_and_algorithms.pdf
 By Giuseppe DeCandia, et. al.  
 http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 
+**Bigtable: A Distributed Storage System for Structured Data**  
+By Fay Chang, et. al.  
+http://research.google.com/archive/bigtable.html
+
