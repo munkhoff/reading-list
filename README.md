@@ -7,8 +7,8 @@ http://www.amazon.com/dp/0201633612
 
 # C and C++ Programming
 
-**API Design for C++**
-By Martin Reddy
+**API Design for C++**  
+By Martin Reddy  
 http://www.apibook.com/
 
 **Effective C++**  
