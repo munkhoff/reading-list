@@ -16,6 +16,10 @@ http://www.amazon.com/dp/0321334876
 By Scott Meyers  
 http://www.amazon.com/dp/020163371X
 
+**API Design for C++**
+By Martin Reddy
+http://www.apibook.com/
+
 
 # Software Design
 
