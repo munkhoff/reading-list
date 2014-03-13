@@ -1,4 +1,8 @@
-# C++
+# C and C++ Programming
+
+**The C Programming Language**  
+By Brian W. Kernighan and Dennis M. Ritchie  
+http://www.amazon.com/dp/0131103628
 
 **Effective C++**  
 By Scott Meyers  
