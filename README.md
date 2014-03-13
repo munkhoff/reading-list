@@ -12,6 +12,13 @@ http://www.amazon.com/dp/020163371X
 # Software Design
 
 **Design Patterns: Elements of Reusable Object-Oriented Software**  
-By Erich Gamma, et. al.
+By Erich Gamma, et. al.  
 http://www.amazon.com/dp/0201633612
+
+
+# Project Management
+
+**The Mythical Man-Month**  
+By Frederick P. Brooks, Jr.  
+http://www.amazon.com/dp/0201835959
 
