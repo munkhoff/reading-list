@@ -30,3 +30,11 @@ http://www.amazon.com/dp/0201633612
 By Frederick P. Brooks, Jr.  
 http://www.amazon.com/dp/0201835959
 
+**Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application**  
+By 37signals  
+http://www.amazon.com/dp/0578012812
+
+**Rework**  
+By Jason Fried and David Heinemeier Hansson  
+http://www.amazon.com/dp/0307463745
+
