@@ -4,6 +4,10 @@
 By Brian W. Kernighan and Dennis M. Ritchie  
 http://www.amazon.com/dp/0131103628
 
+**The Standard C Library**  
+By P.J. Plauger  
+http://www.amazon.com/dp/0131315099
+
 **Effective C++**  
 By Scott Meyers  
 http://www.amazon.com/dp/0321334876
