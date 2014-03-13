@@ -1,12 +1,15 @@
+# Software Design
+
+**Design Patterns: Elements of Reusable Object-Oriented Software**  
+By Erich Gamma, et. al.  
+http://www.amazon.com/dp/0201633612
+
+
 # C and C++ Programming
 
-**The C Programming Language**  
-By Brian W. Kernighan and Dennis M. Ritchie  
-http://www.amazon.com/dp/0131103628
-
-**The Standard C Library**  
-By P.J. Plauger  
-http://www.amazon.com/dp/0131315099
+**API Design for C++**
+By Martin Reddy
+http://www.apibook.com/
 
 **Effective C++**  
 By Scott Meyers  
@@ -16,16 +19,13 @@ http://www.amazon.com/dp/0321334876
 By Scott Meyers  
 http://www.amazon.com/dp/020163371X
 
-**API Design for C++**
-By Martin Reddy
-http://www.apibook.com/
+**The C Programming Language**  
+By Brian W. Kernighan and Dennis M. Ritchie  
+http://www.amazon.com/dp/0131103628
 
-
-# Software Design
-
-**Design Patterns: Elements of Reusable Object-Oriented Software**  
-By Erich Gamma, et. al.  
-http://www.amazon.com/dp/0201633612
+**The Standard C Library**  
+By P.J. Plauger  
+http://www.amazon.com/dp/0131315099
 
 
 # Project Management
