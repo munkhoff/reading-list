@@ -1,4 +1,7 @@
-reading-list
+Reading List
 ============
 
-A list of books and papers that have influenced my work in software engineering.
+This repository contains a list of [books](books.md) and [papers](papers.md)
+that have influenced my work in software engineering.
+
+
